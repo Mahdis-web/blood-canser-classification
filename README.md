@@ -1,4 +1,3 @@
-"
 # 🩸 Acute Lymphoblastic Leukemia (ALL) Subtype Classification (L1, L2, L3)
 
 This project focuses on classifying acute lymphoblastic leukemia (ALL) into its three subtypes (L1, L2, L3) using deep learning techniques on real-world medical data.
